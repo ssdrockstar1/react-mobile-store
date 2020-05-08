@@ -1,0 +1,13 @@
+Nav{
+    color:white
+}
+
+.icon{
+    color:white;
+    font-size: 3rem;
+
+}
+
+.icon:hover{
+    color:rgb(35, 199, 199)
+}
